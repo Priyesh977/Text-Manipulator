@@ -33,7 +33,7 @@ function App() {
     }
     else{
       setMode('dark')
-      document.body.style.backgroundColor = '#042743'
+      document.body.style.backgroundColor = 'black'
       showAlert("Dark Mode Enabled", "success")
     }
   }
